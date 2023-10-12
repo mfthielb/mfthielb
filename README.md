@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**mfthielb/mfthielb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Melinda Thielbar 👋
 
 Here are some ideas to get you started:
 
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Responsible AI
 💬 Ask me about advanced statistics or analytics. 
 ⚡ Fun fact: In another lifetime, I wrote a series called <a href="https://www.amazon.com/Manga-Math-Mysteries-Hundred-dollar-Mystery/dp/0761352430/ref=sr_1_1?crid=35EGEI14DUQCK&keywords=the+hundred+dollar+robber&qid=1697117815&sprefix=the+hundred+dollar+robber%2Caps%2C260&sr=8-1">Manga Math</a>, where kids from a local kung-fu school solved mysteries using math. 
--->
