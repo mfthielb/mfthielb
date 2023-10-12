@@ -1,7 +1,5 @@
 ### Melinda Thielbar 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on probabilistic fairness, calculating fairness metrics for use cases where you don't have demographics. 
   - Read the paper.
   - Use the <a href="https://github.com/fidelity/jurity">software</a>.
