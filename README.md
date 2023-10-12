@@ -8,5 +8,5 @@ Here are some ideas to get you started:
   - Attend the <a href="https://2023.allthingsopen.org/sessions/jurity-state-of-the-art-open-source-software-for-ai-fairness-evaluation/">talk</a>.
 - 🌱 I’m currently learning 3D graphics and Vision Pro technology.
 - 👯 I’m looking to collaborate on Responsible AI
-💬 Ask me about advanced statistics or analytics. 
-⚡ Fun fact: In another lifetime, I wrote a series called <a href="https://www.amazon.com/Manga-Math-Mysteries-Hundred-dollar-Mystery/dp/0761352430/ref=sr_1_1?crid=35EGEI14DUQCK&keywords=the+hundred+dollar+robber&qid=1697117815&sprefix=the+hundred+dollar+robber%2Caps%2C260&sr=8-1">Manga Math</a>, where kids from a local kung-fu school solved mysteries using math. 
+- 💬 Ask me about advanced statistics or analytics. 
+- ⚡ Fun fact: In another lifetime, I wrote a series called <a href="https://www.amazon.com/Manga-Math-Mysteries-Hundred-dollar-Mystery/dp/0761352430/ref=sr_1_1?crid=35EGEI14DUQCK&keywords=the+hundred+dollar+robber&qid=1697117815&sprefix=the+hundred+dollar+robber%2Caps%2C260&sr=8-1">Manga Math</a>, where kids from a local kung-fu school solved mysteries using math. 
