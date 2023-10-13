@@ -1,9 +1,10 @@
 ### Melinda Thielbar 👋
 
 - 🔭 I’m currently working on probabilistic fairness, calculating fairness metrics for use cases where you don't have demographics. 
-  - Read the <a href="https://github.com/mfthielb/talks_and_tutorials/blob/master/probabilistic_fairness/jurity_surrogate_class_userguide.ipynb">tutorial</a>.
+  - View the <a href="https://github.com/mfthielb/talks_and_tutorials/blob/master/probabilistic_fairness/jurity_surrogate_class_userguide.ipynb">tutorial</a>.
   - Use the <a href="https://github.com/fidelity/jurity">software</a>.
   - Attend the <a href="https://2023.allthingsopen.org/sessions/jurity-state-of-the-art-open-source-software-for-ai-fairness-evaluation/">talk</a>.
+  - Read the <a href="https://uni-bielefeld.sciebo.de/s/y1r3gNuTt0lyFDz#pdfviewer">paper</a>.
 - 🌱 I’m currently learning 3D graphics and Vision Pro technology.
 - 👯 I’m looking to collaborate on Responsible AI
 - 💬 Ask me about advanced statistics or analytics. 
