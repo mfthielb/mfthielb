@@ -4,7 +4,7 @@
   - View the <a href="https://github.com/mfthielb/talks_and_tutorials/blob/master/probabilistic_fairness/jurity_surrogate_class_userguide.ipynb">tutorial</a>.
   - Use the <a href="https://github.com/fidelity/jurity">software</a>.
   - Attend the <a href="https://2023.allthingsopen.org/sessions/jurity-state-of-the-art-open-source-software-for-ai-fairness-evaluation/">talk</a>.
-  - Read the <a href="https://uni-bielefeld.sciebo.de/s/y1r3gNuTt0lyFDz#pdfviewer">paper</a>.
+  - Read the <a href="https://uni-bielefeld.sciebo.de/s/y1r3gNuTt0lyFDz#pdfviewer">paper</a> (paper #5489).
 - 🌱 I’m currently learning 3D graphics and Vision Pro technology.
 - 👯 I’m looking to collaborate on Responsible AI
 - 💬 Ask me about advanced statistics or analytics. 
